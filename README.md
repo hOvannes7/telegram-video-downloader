@@ -6,7 +6,7 @@
 
 Chrome extension for downloading videos and images from Telegram Web
 
-[📥 Скачать](https://github.com/hOvannes7/telegram-video-downloader/archive/refs/heads/main.zip) • [📖 Документация](USAGE.md) • [📝 История изменений](CHANGELOG.md)
+[📥 Скачать](https://github.com/hOvannes7/telegram-video-downloader/archive/refs/heads/main.zip) • [📖 Документация](USAGE.md)
 
 [Русский](README.md) | [English](README_EN.md)
 
@@ -67,7 +67,6 @@ MIT
 <div align="center">
 
 **[USAGE.md](USAGE.md)** — подробное руководство пользователя  
-**[CHANGELOG.md](CHANGELOG.md)** — история изменений  
 **[README_EN.md](README_EN.md)** — English version
 
 </div>
