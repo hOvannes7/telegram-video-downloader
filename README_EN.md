@@ -120,12 +120,3 @@ MIT License — free to use, modify, and distribute.
 ## ⚠️ Disclaimer
 
 This extension is provided "as is", without any warranties. Use at your own risk. Authors are not responsible for any misuse.
-
----
-
-<div align="center">
-
-**[USAGE.md](USAGE.md)** — Detailed user guide  
-**[README.md](README.md)** — Русская версия
-
-</div>
